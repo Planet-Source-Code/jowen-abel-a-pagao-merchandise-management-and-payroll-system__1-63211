@@ -1,0 +1,14 @@
+ 
+PURCHASE ORDER NUMBER: PUR-000002
+SUPPLIER ID: SUP-001
+SUPPLIER NAME: NIKE STADIUM
+DATE: 02/28/2002
+UPC/BARCODE    LONG DESCRIPTION                        UNIT COST      QUANTITY       TOTAL COST
+----------------------------------------------------------------------------------------------------
+48001212       NIKE BASKETBALL JERSEY XXL              1,200.00       5.00           6,000.00
+48001213       NIKE BASKETBALL SHORTS XXL              1,000.00       10.00          10,000.00
+----------------------------------------------------------------------------------------------------
+ 
+PURCHASED BY: HUBERT LIPA ABABAN
+NOTE: 
+      NONE

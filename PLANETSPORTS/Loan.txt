@@ -1,0 +1,7 @@
+
+Loan ID        Emp ID         Employee Name                           Loan Amount    Term           Deduction      Paid
+
+-----------------------------------------------------------------------------------------------------------------------------
+2              EMP-001        HUBERT LIPA ABABAN                      50,000.00      9              5,556.00       
+1              EMP-001        HUBERT LIPAD ABABAN                     5,000.00       4              525.00         NO
+2              EMP-001        HUBERT LIPA ABABAN                      5,000.00       3              1,667.00       NO
