@@ -1,0 +1,11 @@
+ 
+RECEIVED NUMBER: REC-000003
+SUPPLIER ID: SUP-001
+DATE RECEIVED: 02/28/2002
+UPC/BARCODE    LONG DESCRIPTION                        UNIT COST      QUANTITY       TOTAL COST
+----------------------------------------------------------------------------------------------------
+48001212       NIKE BASKETBALL JERSEY XXL              1,200.00       5.00           30,000.00
+48001213       NIKE BASKETBALL SHORTS XXL              1,000.00       10.00          100,000.00
+----------------------------------------------------------------------------------------------------
+ 
+RECEIVED BY: HUBERT LIPA ABABAN
